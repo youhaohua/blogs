@@ -4,4 +4,4 @@
 
 [聊一聊js语言特性](https://github.com/youhaohua/blogs/issues/1)
 
-[thisz指向](https://github.com/youhaohua/blogs/issues/2)
+[this指向](https://github.com/youhaohua/blogs/issues/2)
